@@ -269,14 +269,6 @@ A: Yes, we follow HIPAA compliance guidelines and use industry-standard encrypti
 
 ---
 
-## 📞 Contact
-
-- **Website**: https://vocalspace.com
-- **Email**: contact@vocalspace.com
-- **Twitter**: [@VocalSpaceAI](https://twitter.com/VocalSpaceAI)
-- **LinkedIn**: [VocalSpace](https://linkedin.com/company/vocalspace)
-
----
 
 <div align="center">
 
